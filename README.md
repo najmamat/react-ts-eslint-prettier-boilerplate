@@ -1,6 +1,7 @@
 # Getting Started with Create React+TS App
+This project works as a tempate starter project with all dependecies set up and working. Project is set up with basic eslint and prettier. Correction working with CDM+S
 
-You have to run `npm install` after using this template project
+You have to run `npm install` after using this template project to install all dependencies
 ## Or follow these steps (creating react+ts app from scratch)
 - use `npx create-react-app my-app --template typescript`
 - copy contents from this project into yours package.json
